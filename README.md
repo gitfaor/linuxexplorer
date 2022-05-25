@@ -1,5 +1,5 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
-![WorkInProgress][shield-progress]
+[![WorkInProgress][shield-progress]][shield-progress-url]
 
 
 <div id="top"></div>
