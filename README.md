@@ -1,4 +1,6 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
+![WorkInProgress][shield-progress]
+
 
 <div id="top"></div>
 
@@ -16,3 +18,5 @@ Access based application made up from queries, macros, forms and reports
 <!-- MARKDOWN LINKS & IMAGES -->
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/fabio-origoni/
+[shield-progress]: https://shields.io/badge/state-workinprogress-brightgreen
+[shield-progress-url]: https://github.com/gitfaor/linuxexplorer
