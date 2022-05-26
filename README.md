@@ -12,7 +12,7 @@ Access based application made up from queries, macros, forms and reports
 ## License & Copyright
 
 <div align="center">
-  <a href=https://fabioorigoni.ch/">
+  <a href="https://fabioorigoni.ch/">
     <img src="images/logo.webp" alt="Logo" width="80" height="80">
   </a>
   <h3 align="center">&copy; Fabio Origoni</h3>
