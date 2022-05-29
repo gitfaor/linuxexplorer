@@ -1,14 +1,19 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
-[![WorkInProgress][shield-progress]][shield-progress-url]
-
-
-(Currently working on ***frmDistributionInsert & reports***)
+<!-- [![WorkInProgress][shield-progress]][shield-progress-url] -->
 
 <div id="top"></div>      
                     
 # Linux Explorer
 Access based application made up from queries, macros, forms and reports 
                     
+## Tools used
+MS Access
+
+## About the project
+![Main](./images/home.webp)
+![Main](./images/overview.webp)
+![Main](./images/insert.webp)
+![Main](./images/statistics.webp)
 ## License & Copyright
 
 <div align="center">
