@@ -4,7 +4,7 @@
 <div id="top"></div>      
                     
 # Linux Explorer
-Access based application made up from queries, macros, forms and reports 
+Access based application made up from queries, macros, forms and reports.
                     
 ## Tools used
 MS Access
