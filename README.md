@@ -10,7 +10,7 @@ Access based application made up from queries, macros, forms and reports.
 MS Access
 
 ## About the project
-![Main](./images/home.webp)
+![Main](./images/main.webp)
 ![Main](./images/overview.webp)
 ![Main](./images/insert.webp)
 ![Main](./images/statistics.webp)
